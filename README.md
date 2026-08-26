@@ -58,3 +58,26 @@ expense_tracker/
 ├── requirements.txt
 ├── README.md
 └── expenses.db
+
+### 1. Clone the repository
+
+```bash
+git clone git@github.com:naishehuggins/personal-expense-tracker.git
+
+cd personal-expense-tracker
+
+python -m pip install -r requirements.txt
+
+python -m streamlit run app.py
+
+
+### 2. In your VS Code terminal
+
+You run **only the command itself**, without `bash`.
+
+For example:
+
+```powershell
+python -m pip install -r requirements.txt
+or
+python -m streamlit run app.py
