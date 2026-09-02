@@ -37,7 +37,7 @@ The application allows users to record income and expenses, monitor their spendi
 - Show budget usage percentage
 - Warn users when they are approaching or exceeding a budget
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
