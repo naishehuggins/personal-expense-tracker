@@ -59,6 +59,10 @@ expense_tracker/
 ├── README.md
 └── expenses.db
 
+
+## Installation
+
+
 ### 1. Clone the repository
 
 ```bash
