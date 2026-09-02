@@ -58,7 +58,7 @@ expense_tracker/
 ├── requirements.txt
 ├── README.md
 └── expenses.db
-
+```
 
 ## Installation
 
