@@ -1,10 +1,10 @@
-# 💰 Personal Expense Tracker
+# Personal Expense Tracker
 
 A simple personal finance web application built with Python, Streamlit, SQLite, and Pandas.
 
 The application allows users to record income and expenses, monitor their spending, analyze financial activity, and set monthly budgets.
 
-## 🚀 Features
+##  Features
 
 ### Dashboard
 - Total income
@@ -44,7 +44,7 @@ The application allows users to record income and expenses, monitor their spendi
 - SQLite
 - Pandas
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 expense_tracker/
